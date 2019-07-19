@@ -3,7 +3,7 @@
 <br>
 <br>
 ## Membership Forms
-#### [CODE WALKTHROUGH FORM](S:\PBS\MEMB INFO\Change Sheet Repository\Forms and Procedures\Walk Through Forms)
+#### [CODE WALKTHROUGH FORM](https://github.com/BrianGrogan/Membership/blob/master/Commercial%20Code%20Walkthrough.docx)
 <br>
 <br>
 ## DB2 Table Update Request Form Repository
