@@ -1,5 +1,5 @@
 ## Membership Links
-### SEARCH BY RACF - [Link](https://techutilities.bcbssc.com/RACFer/)
+### [Search By RACF](https://techutilities.bcbssc.com/RACFer/)
 <br>
 <br>
 ## Membership Forms
