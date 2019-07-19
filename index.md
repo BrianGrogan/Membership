@@ -16,7 +16,7 @@
 <br>
 <br>
 ## Production Support Database Installation Link
-## Production Inventory Database Installatino Link
+## Production Inventory Database Installation Link
  
 
 <!--
